@@ -1,7 +1,7 @@
 # extension_vk
 Расширение позволяющее изменять каракули на латинице на осмысленный тест на кириллице
 
-Скачивания:
+Скачать:
 ```
 git clone https://github.com/febdaynik/extension_vk.git
 ```
